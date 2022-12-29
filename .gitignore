@@ -11,8 +11,8 @@ hs_err_pid*
 .settings
 
 # IntelliJ
-.idea/
-*.iml
+#.idea/
+#*.iml
 
 # Generated automatically
 src/main/resources/version.properties
